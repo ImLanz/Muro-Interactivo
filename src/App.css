@@ -1,0 +1,131 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #6a0080;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(30px + 2vmin);
+  color: white;
+  margin-bottom: 1px;
+  margin-inline-start: 12px;
+  margin-inline-end: 12px;
+  margin-top: 10px;
+  border-radius: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-variant: small-caps;
+
+}
+
+.Contenido {
+  margin-top: 1px;
+  margin-inline-start: 12px;
+  margin-inline-end: 12px;
+  font-size: 26px;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-inline-start-width: 1in;
+  background-color: #49599a;
+  border-radius: 25px;
+}
+
+input {
+  background-color: #49599a;
+  color: ghostwhite;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  border-radius: 10px;
+  margin: 10px;
+  font-variant: small-caps;
+
+}
+
+.Intro {
+
+background-color: #7986cc;
+margin-inline-end: 12px;
+margin-inline-start: 12px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 40px;
+border-radius: 25px;
+font-variant: small-caps;
+margin-block-end: 1px;
+
+}
+
+
+.card-imagen{
+
+  background-color: #7986cb;
+  margin-block-start: 20px;
+  margin-bottom: 20px;
+  margin-inline-end: 320px;
+  margin-inline-start: 320px;
+  border-radius: 10px;
+
+}
+
+.card-usuario-image {
+
+  background-color:#7986cc; 
+  margin-inline-end: 665px;
+  margin-inline-start: 665px;
+  border-radius: 10px;
+  margin-bottom: 5px;
+
+}
+
+.card-usuario-nombre {
+
+color: #49599a;
+background-color: #7986cb;
+margin-inline-end: 425px;
+margin-inline-start: 425px;
+border-radius: 10px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-variant: small-caps;
+margin-bottom: 60px;
+
+}
+
+.publicaciones {
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-variant: small-caps;
+  font-size: 45px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.cuenta {
+
+  color: #49599a;
+background-color: #7986cb;
+margin-inline-end: 400px;
+margin-inline-start: 400px;
+border-radius: 10px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-variant: small-caps;
+
+}
+
+.botonInicio button {
+
+  font-size: 40px;
+  background-color: #49599a;
+  color: whitesmoke;
+  width: 400px;
+  height: 50px;
+  border-radius: 10px;
+  margin: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+
